@@ -1,0 +1,10 @@
+Algorithme ex23
+Variables n, i: entier
+S: réel
+Début
+Ecrire (" svp done la valeur de n: ")
+Lire (n)
+Pour i <-- 1 à n pas 1 faire S <--S + ( 1 / i )
+fin Pour
+Ecrire ("La somme de la série est: ", S )
+Fin
